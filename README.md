@@ -1,3 +1,5 @@
+It took me 2 days to finish the task.
+
 Web Api Core (bin and obj folders are removed)
 
 1.If you had more time, what further improvements or new features would you add?
