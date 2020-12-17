@@ -8,7 +8,7 @@ Web Api Core (bin and obj folders are removed)
 
 2.Which parts are you most proud of? And why?
 
--The token system. It was a little different for me.
+- The token system. It was a little different for me.
 
 3.Which parts did you spend the most time with? What did you find most difficult?
 
